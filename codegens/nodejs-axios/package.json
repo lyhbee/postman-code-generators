@@ -28,7 +28,7 @@
   "homepage": "https://github.com/postmanlabs/code-generators/tree/master/codegens/nodejs-axios",
   "dependencies": {},
   "devDependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.2",
     "form-data": "3.0.0",
     "qs": "6.9.2"
   },
