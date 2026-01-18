@@ -51,7 +51,7 @@
     "parse-gitignore": "1.0.1",
     "pretty-ms": "3.2.0",
     "recursive-readdir": "2.2.2",
-    "watchify": "3.11.1"
+    "watchify": "4.0.0"
   },
   "engines": {
     "node": ">=6"
